@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tristannos
 - 👀 I’m interested in Girlzzzz
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently mastering Flutter
 - 💞️ I’m looking to collaborate on Mobile aplications
 - 📫 How to reach me tristanjurjens@gmail.com
 <!---
